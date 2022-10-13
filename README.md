@@ -1,1 +1,9 @@
 # PyBer_Analysis
+    ## 1.Overview of the analysis
+        ### The purpose of this analysis was to create a summary DataFrame for V. Isualize,a ride-sharing app, organizing the data by city type, which include rural, suburban, and urban cities. After organizing the data, I used that data to create a graph showing the change in fare price from Jan 2019-April 2019 of each city type.
+    ## 2. Results
+        ### From the PyBer summary DataFrame, we can see that there are 5 times as many suburban rides as rural rides, and also; there are 13 times as many urban rides as rural rides. There are also more than 6 times and 30 times as many drivers in suburuban and urban cities respectively compared to rural drivers. However, the fewer drivers makes seems to correlate to a more expensive average fare price per ride and per driver. 
+    ## 3. Summary
+        ### One business recommendation I can offer would be to offer some sort of promotion for riders in rural areas, especially in the month of January, this way more rides in rural areas are taken, which can held drive down the average price for rural area rides, because; rural area rides are almost 50% more expensive than urban rides. 
+        Another recommendation I can make is to put a few advertisements targeted at getting people to sign up to become drivers, especially in rural areas. We can use the data to show that drivers on average can make over $100 for only a couple of rides to attract more people. 
+        A third recommendation I'd make is to have some sort of promotion in March to get more people using V. Isualize. I recommend that because the highest weekly total fares in March for all three city types, is not as high as they are fore the preceding month and the month afterwards. So some type of promotion could combat the dip in fares. 
